@@ -3,6 +3,8 @@
 
 A simple weather forecasting web application built with React and styled using Tailwind CSS. This app utilizes the OpenWeatherMap API to provide real-time weather information for different locations.
 
+Click [https://ajjkamausam.netlify.app](https://ajjkamausam.netlify.app/) to go to my Hosted website.
+
 ## Screenshots
 
 ![App Screenshot](./public/Screenshot%20(38).png)
